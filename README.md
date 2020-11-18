@@ -1,10 +1,9 @@
 # Data Science Journey
 
-All Rights Reserved
+Copyright (c) 2020, [Nabeel Khan](https://www.nabeelkhan.com)
+All rights reserved.
 
-
-
-# Markdown Cheat Sheet
+## Defining the problem
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
@@ -17,7 +16,9 @@ These are the elements outlined in John Gruber’s original design document. All
 ### Heading
 
 # H1
+
 ## H2
+
 ### H3
 
 ### Bold
@@ -26,7 +27,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Italic
 
-*italicized text*
+_italicized text_
 
 ### Blockquote
 
@@ -66,10 +67,10 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ### Table
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
 
 ### Fenced Code Block
 
