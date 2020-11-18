@@ -1,3 +1,6 @@
+Copyright (c) 2020, [Nabeel Khan](https://www.nabeelkhan.com)
+All rights reserved.
+
 # Data Science Journey
 
 _**"If You Can't Measure It, You Can't Improve It."**_
