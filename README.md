@@ -1,17 +1,17 @@
 # Data Science Journey
 
-A document with bried introduction into Data Science and Machine Learning with templates to kick-start your projects. This repositry will contain source code to explain the concept into details.
+A document with bried introduction into [Data Science](https://github.com/nabeelkhan/Data-Science-Journey/blob/main/What%20is%20Data%20Science%20and%20Machine%20Learning.md) and [Machine Learning](https://github.com/nabeelkhan/Data-Science-Journey/blob/main/What%20is%20Data%20Science%20and%20Machine%20Learning.md) with templates to kick-start your projects. This repositry will contain source code to explain the concept into details.
 
 Copyright (c) 2020, [Nabeel Khan](https://www.nabeelkhan.com)
 All rights reserved.
 
 ## Approaching Problems as a Data Scientist
 
-I will sketch some portions to keep in mind when structuring your [data science](What is Data Science and Machine Learning.md) project before you get into the analysis and modeling phase, then we will get into some technical details regarding preparing data for modeling in the next section. It is very important to ensure you have a well-structured plan for your project beforehand. I cannot emphasize enough on writing down all the details rather just keeping that in your immediate memory.
+I will sketch some portions to keep in mind when structuring your [data science](https://github.com/nabeelkhan/Data-Science-Journey/blob/main/What%20is%20Data%20Science%20and%20Machine%20Learning.md) project before you get into the analysis and modeling phase, then we will get into some technical details regarding preparing data for modeling in the next section. It is very important to ensure you have a well-structured plan for your project beforehand. I cannot emphasize enough on writing down all the details rather just keeping that in your immediate memory.
 
 This document is centered around Jupyter Notebooks because they are a very convenient way to document your planning notes, analysis, and modeling plans, keeping these notes in the same place as your proceeding analysis can help others understand what you're doing when they see your work or provide context for you when you look back at your code after a while.
 
-A large part of [data science](What is Data Science and Machine Learning.md) involves the use of [machine learning](What is Data Science and Machine Learning.md) to build predictive models. When formulating a plan for predictive modeling, you should start by considering your stakeholder's needs. A perfect model will be useless if it doesn't solve a relevant problem. Planning a strategy around business needs ensures that a successful model will lead to actionable insights.
+A large part of [data science](What is Data Science and Machine Learning.md) involves the use of [machine learning](https://github.com/nabeelkhan/Data-Science-Journey/blob/main/What%20is%20Data%20Science%20and%20Machine%20Learning.md) to build predictive models. When formulating a plan for predictive modeling, you should start by considering your stakeholder's needs. A perfect model will be useless if it doesn't solve a relevant problem. Planning a strategy around business needs ensures that a successful model will lead to actionable insights.
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
