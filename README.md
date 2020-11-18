@@ -1,5 +1,7 @@
 # Data Science Journey
 
+_**"If You Can't Measure It, You Can't Improve It."**_
+
 A document with bried introduction into [Data Science](https://github.com/nabeelkhan/Data-Science-Journey/blob/main/What%20is%20Data%20Science%20and%20Machine%20Learning.md) and [Machine Learning](https://github.com/nabeelkhan/Data-Science-Journey/blob/main/What%20is%20Data%20Science%20and%20Machine%20Learning.md) with templates to kick-start your projects. This repositry will contain source code to explain the concept into details.
 
 Copyright (c) 2020, [Nabeel Khan](https://www.nabeelkhan.com)
