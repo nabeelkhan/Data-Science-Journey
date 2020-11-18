@@ -7,6 +7,12 @@ A document with bried introduction into [Data Science](https://github.com/nabeel
 Copyright (c) 2020, [Nabeel Khan](https://www.nabeelkhan.com)
 All rights reserved.
 
+## Introduction
+
+Traditional Method --- vs --- Machine Learning Method
+
+![Traditional Method --- vs --- Machine Learning Method](/images/Traditional vs Machine Learning Method.png)
+
 ## Approaching Problems as a Data Scientist
 
 I will _sketch_ some portions to keep in mind when structuring your [data science](https://github.com/nabeelkhan/Data-Science-Journey/blob/main/What%20is%20Data%20Science%20and%20Machine%20Learning.md) project before you get into the analysis and modeling phase, then we will get into some technical details regarding preparing data for modeling in the next section. It is very important to ensure you have a well-structured plan for your project beforehand. I cannot emphasize enough on writing down all the details rather just keeping that in your immediate memory.
