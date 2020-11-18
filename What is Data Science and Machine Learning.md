@@ -5,7 +5,15 @@ All rights reserved.
 
 # What is Machine Learning?
 
-## Defining the problem
+Artificial Intelligence is used in business through machine learning algorithms. Machine learning is a part of computer science focused on computer systems learning to perform a specific task without using explicit instructions, relying on patterns and inference instead.
+
+Machine learning algorithms detect patterns and learn how to make predictions and recommendations by processing data, rather than by receiving explicit programming instructions (‘if-then’ loops). The algorithms improve over time with new data coming in, ‘learning’ through examples.
+
+> Machine learning is primarily used in:
+
+- **Descriptive**: _What happened_?
+- **Prescriptive**: _What should be done to achieve goals_?
+- **Predictive**: _What will happen_?
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 

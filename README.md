@@ -7,7 +7,7 @@ All rights reserved.
 
 ## Approaching Problems as a Data Scientist
 
-I will sketch some portions to keep in mind when structuring your [data science](https://github.com/nabeelkhan/Data-Science-Journey/blob/main/What%20is%20Data%20Science%20and%20Machine%20Learning.md) project before you get into the analysis and modeling phase, then we will get into some technical details regarding preparing data for modeling in the next section. It is very important to ensure you have a well-structured plan for your project beforehand. I cannot emphasize enough on writing down all the details rather just keeping that in your immediate memory.
+I will _sketch_ some portions to keep in mind when structuring your [data science](https://github.com/nabeelkhan/Data-Science-Journey/blob/main/What%20is%20Data%20Science%20and%20Machine%20Learning.md) project before you get into the analysis and modeling phase, then we will get into some technical details regarding preparing data for modeling in the next section. It is very important to ensure you have a well-structured plan for your project beforehand. I cannot emphasize enough on writing down all the details rather just keeping that in your immediate memory.
 
 This document is centered around Jupyter Notebooks because they are a very convenient way to document your planning notes, analysis, and modeling plans, keeping these notes in the same place as your proceeding analysis can help others understand what you're doing when they see your work or provide context for you when you look back at your code after a while.
 
