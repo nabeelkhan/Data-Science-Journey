@@ -11,7 +11,7 @@ All rights reserved.
 
 Traditional Method --- vs --- Machine Learning Method
 
-![Traditional Method --- vs --- Machine Learning Method](https://github.com/nabeelkhan/Data-Science-Journey/blob/main/images/Traditional%20vs%20Machine%20Learning%20Method.png)
+![Traditional Method `--- vs --- ` Machine Learning Method](https://github.com/nabeelkhan/Data-Science-Journey/blob/main/images/Traditional%20vs%20Machine%20Learning%20Method.png)
 
 ## Approaching Problems as a Data Scientist
 
