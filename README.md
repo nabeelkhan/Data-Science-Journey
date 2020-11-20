@@ -24,6 +24,14 @@ This document is centered around Jupyter Notebooks because they are a very conve
 
 A large part of [data science](https://github.com/nabeelkhan/Data-Science-Journey/blob/main/What%20is%20Data%20Science%20and%20Machine%20Learning.md) involves the use of [machine learning](https://github.com/nabeelkhan/Data-Science-Journey/blob/main/What%20is%20Data%20Science%20and%20Machine%20Learning.md) to build predictive models. When formulating a plan for predictive modeling, you should start by considering your stakeholder's needs. A perfect model will be useless if it doesn't solve a relevant problem. Planning a strategy around business needs ensures that a successful model will lead to actionable insights.
 
+# Predictive Modeling and Data Analytics
+Of the four types of data analytics, predictive modeling is most closely related to the predictive analytics category. The fur types of data analytics are:
+- Descriptive Analytics: Descriptive analytics describes the data. For example, a software-as-a-service (SaaS) company sold 2,000 licenses in Q2 and 1,000 licenses in Q1. Descriptive analytics answers the question of how many licenses were sold in Q1 vs. Q2.
+- Diagnostic Analytics: Diagnostic analytics is the why behind descriptive analytics. To use the previous example, diagnostic analytics takes data a step further. A data analyst can drill down into quarterly software license sales and determine sales and marketing efforts within each region to reference them against sales growth. They could also see if a sales increase was a result of high-performing salespeople or rising interest within a certain industry.
+- Predictive Analytics: Predictive analytics utilizes techniques such as machine learning and data mining to predict what might happen next. It can never predict the future, but it can look at existing data and determine a likely outcome. Data analysts can build predictive models once they have enough data to make predicted outcomes. Predictive analytics differs from data mining because the latter focuses on discovery of the hidden relationships between variables, whereas the former applies a model to determine likely outcomes. A SaaS company could model historical sales data against marketing expenditures across each region to create a prediction model for future revenue based on marketing spend.
+- Prescriptive Analytics: Prescriptive analytics takes the final step and offers a recommendation based on a predicted outcome. Once a predictive model is in place, it can recommend actions based on historical data, external data sources, and machine learning algorithms.
+
+
 ## Basic Syntax
 
 These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
