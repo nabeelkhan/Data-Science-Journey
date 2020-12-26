@@ -1,6 +1,6 @@
 ## Machine Learning Project Checklist
 
-**Summary:** [This checklist](http://bit.ly/ml_proj_checklist) was created to help ML students/practitioners structure their projects and problems in a way that makes sense to me.
+**Summary:** [This checklist](https://github.com/nabeelkhan/Data-Science-Journey/blob/main/Project%20Workshop/README.md) was created to help ML students/practitioners structure their projects and problems in a way that makes sense to me.
 
 ---
 
