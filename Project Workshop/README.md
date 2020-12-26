@@ -9,7 +9,7 @@ When I just got started learning Python for Machine Learning and worked on my fi
 - I couldn't easily remember the functions, methods, and estimators from pandas, numpy, and sklearn, and
 - it was tedious and time-consuming to try to understand large (>50 feature) datasets
 
-So, I created the [ML checklist](http://bit.ly/ml_proj_checklist) (Pictured Below) to be a handy tool for whenever I start to feel lost creating an ML project.
+So, I created the [ML checklist](https://github.com/nabeelkhan/Data-Science-Journey/blob/main/Project%20Workshop/assets/ml_proj_checklist.png) (Pictured Below) to be a handy tool for whenever I start to feel lost creating an ML project.
 
 <img src="assets/ml_proj_checklist.png"
      alt="Machine Learning Checklist"/>
