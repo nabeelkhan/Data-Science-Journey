@@ -37,8 +37,9 @@
 ### Classifying on the MNIST Dataset
 ## Business Case Example
 ### Jober
+An NLP Project about resume and profile scanning. 
 ### Video
-### NLP
+A Video scanning and stats reporting application.
 ## Part 5: Variables and Data Types Python
 ### Basic Python Syntax
 ### Other Python Operators
