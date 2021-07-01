@@ -3,7 +3,10 @@
 - [ML Project Checklist](https://github.com/nabeelkhan/Data-Science-Journey/blob/main/Project%20Workshop/README.md) 
 
 ### Data Scraping
+- Data Scrapping from [Dynamic Website](https://eswchildcare.ca/) 
 ### EDA
+- EDA from [Dynamic Website](https://eswchildcare.ca/) 
+- Including Data Mapping on Maps
 ## Part 2: Probability 
 ### Combinatorics
 ### Probability - Bayesian Inference
