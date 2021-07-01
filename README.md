@@ -1,4 +1,4 @@
-Copyright (c) 2020, [Nabeel Khan](https://www.nabeelkhan.com)
+Copyright (c) 2021, [Nabeel Khan](https://www.nabeelkhan.com)
 All rights reserved.
 
 # Data Science Journey
