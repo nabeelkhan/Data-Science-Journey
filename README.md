@@ -201,4 +201,4 @@ Your terminal should already be open. Type command-t to open a new tab. Type `co
 
 If you have any issues, please email me.
 
-####Check notes for more details [notes.md](https://github.com/iSystematic/Jobber/blob/main/notes.md "notes.md")
+#### Check notes for more details [notes.md](https://github.com/iSystematic/Jober-workspace/blob/main/notes.md)
