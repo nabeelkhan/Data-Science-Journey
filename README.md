@@ -145,17 +145,60 @@ We can see that there is an increasing trend in average price for each class cod
 
 We will have a quick look at the distribution of the average alcohol level for each class
 
-
-
-
-
-
-
-
-
 # Predictive Modeling and Data Analytics
 Of the four types of data analytics, predictive modeling is most closely related to the predictive analytics category. The fur types of data analytics are:
 - Descriptive Analytics: Descriptive analytics describes the data. For example, a software-as-a-service (SaaS) company sold 2,000 licenses in Q2 and 1,000 licenses in Q1. Descriptive analytics answers the question of how many licenses were sold in Q1 vs. Q2.
 - Diagnostic Analytics: Diagnostic analytics is the why behind descriptive analytics. To use the previous example, diagnostic analytics takes data a step further. A data analyst can drill down into quarterly software license sales and determine sales and marketing efforts within each region to reference them against sales growth. They could also see if a sales increase was a result of high-performing salespeople or rising interest within a certain industry.
 - Predictive Analytics: Predictive analytics utilizes techniques such as machine learning and data mining to predict what might happen next. It can never predict the future, but it can look at existing data and determine a likely outcome. Data analysts can build predictive models once they have enough data to make predicted outcomes. Predictive analytics differs from data mining because the latter focuses on discovery of the hidden relationships between variables, whereas the former applies a model to determine likely outcomes. A SaaS company could model historical sales data against marketing expenditures across each region to create a prediction model for future revenue based on marketing spend.
 - Prescriptive Analytics: Prescriptive analytics takes the final step and offers a recommendation based on a predicted outcome. Once a predictive model is in place, it can recommend actions based on historical data, external data sources, and machine learning algorithms.
+
+Here are the steps you’ll need to take before the start:
+## Lets setup the environment
+### 1. Download Miniconda
+I highly recommend that you download [the Python 3.8 version](https://www.anaconda.com/download/). Run the installer to install basic Python 3.8 and other important packages. 
+
+You can also Download Anaconda [the Python 3.8 version](https://www.anaconda.com/download/).
+
+### 2. Download the Jupyter Lab
+Clone or download this [Github repository](https://github.com/nabeelkhan/Data-Science-Journey), so you have access to all the Jupyter Lab (.ipynb extension) in the tutorial. **Note the green button on the right side of the screen that says `Clone or download`.** If you know how to use Github, go ahead and clone the repo. If you don't know how to use Github, you can also just download the zip file and unzip it on your laptop.
+
+### 3. Launch Anaconda and Open a Jupyter Lab
+*Windows:*
+Open the Anaconda Powershell Prompt (Miniconda3) program.
+
+#### Create Env
+
+```conda create -n env3.8 python=3.8```
+
+#### Check version Python Version
+```python --version```
+
+```conda update python```
+
+
+You should see the Jupyter Lab logo. Below the logo, click Launch. A browser window should open up. In the browser window, navigate to the location of the saved Jupyter Lab files and open 0-Hello-World.ipynb. Follow the instructions in the notebook.
+
+*Mac/Linux:*
+Open a terminal. Type ```Jupyter Lab```. A browser should open up. In the browser window, navigate to the location of the saved Jupyter Lab folder and open 0-Hello-World.ipynb. Follow the instructions in the notebook.
+
+### 4. Install a Few Additional Packages
+
+There are a few additional packages we'll be using during the tutorial that are not included when you download Anaconda - wordcloud, textblob and gensim.
+
+*Windows:*
+Open the Anaconda Powershell Prompt (Miniconda3) program. You should see a black window pop up. Type 
+
+```conda install jupyterlab ipywidgets numpy pandas matplotlib scikit-learn```
+`conda install -c conda-forge wordcloud` to download wordcloud.
+
+You will be asked whether you want to proceed or not. Type `y` for yes. Once that is done, 
+
+type `conda install -c conda-forge textblob` to download textblob and `y` to proceed, 
+type `conda install -c conda-forge gensim` to download gensim and `y` to proceed.
+
+*Mac/Linux:*
+Your terminal should already be open. Type command-t to open a new tab. Type `conda install -c conda-forge wordcloud` to download wordcloud. You will be asked whether you want to proceed or not. Type `y` for yes. Once that is done, type `conda install -c conda-forge textblob` to download textblob and `y` to proceed, and type `conda install -c conda-forge gensim` to download gensim and `y` to proceed.
+
+If you have any issues, please email me.
+
+#### Check notes for more details [notes.md](https://github.com/iSystematic/Jober-workspace/blob/main/notes.md)
