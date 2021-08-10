@@ -137,9 +137,9 @@ We can see that there are more entries for class 1 than for class 2.
 
 We will have a quick look at the distribution of the average price for each class code.
 
-```wine . groupby ([ 'ClassCode' , 'Year' ])[ 'Price' ] . mean () . sort_values () . head ()
+```wine . groupby ([ 'ClassCode' , 'Year' ])[ 'Price' ] . mean () . sort_values () . head ()```
 
-ClassCode Year 0 1 1992 22.0 1 2 1993 24.0 2 3 1994 27.4 3 4 1995 30.5```
+```ClassCode Year 0 1 1992 22.0 1 2 1993 24.0 2 3 1994 27.4 3 4 1995 30.5```
 
 We can see that there is an increasing trend in average price for each class code.
 
