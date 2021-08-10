@@ -99,47 +99,47 @@ We will create a new directory called data_science_project .
 
 The directory structure should look like this:
 
-data_science_project └── numpy_basics.ipynb
+```data_science_project └── numpy_basics.ipynb
 
 └── data_preparation.ipynb
 
-└── model_selection.ipynb
+└── model_selection.ipynb```
 
 We will begin by importing numpy and pandas . We will use pandas to clean and prepare our data.
 
-import numpy as np import pandas as pd
+```import numpy as np import pandas as pd```
 
 We will load the data from a CSV file called wine.csv .
 
-wine = pd . read_csv ( 'data/wine.csv' )
+```wine = pd . read_csv ( 'data/wine.csv' )```
 
 We will use a few pandas methods to clean and prepare our data.
 
-wine = wine . drop ([ 'Name' , 'ClassCode' ], axis = 1 ) wine [ 'ClassCode' ] = wine [ 'ClassCode' ] . astype ( str ) wine . set_index ([ 'Year' , 'ClassCode' ], inplace = True )
+```wine = wine . drop ([ 'Name' , 'ClassCode' ], axis = 1 ) wine [ 'ClassCode' ] = wine [ 'ClassCode' ] . astype ( str ) wine . set_index ([ 'Year' , 'ClassCode' ], inplace = True )```
 
 We can see that the ClassCode is now a string.
 
-wine . columns . str . class wine . columns . str . dtype
+```wine . columns . str . class wine . columns . str . dtype```
 
 We can see that the Year is an integer.
 
-year = wine . columns . values [ wine . columns . values == 'Year' ] year . shape
+```year = wine . columns . values [ wine . columns . values == 'Year' ] year . shape```
 
 We can see that the Year is a 1-d array of integers.
 
 We will have a quick look at the distribution of the number of observations for each class code.
 
-wine . groupby ([ 'ClassCode' , 'Year' ])[ 'Number' ] . mean () . sort_values () . head ()
+```wine . groupby ([ 'ClassCode' , 'Year' ])[ 'Number' ] . mean () . sort_values () . head ()```
 
-ClassCode Year 1 1 1992 3 2 1993 4 3 1994 5 4 1995
+```ClassCode Year 1 1 1992 3 2 1993 4 3 1994 5 4 1995```
 
 We can see that there are more entries for class 1 than for class 2.
 
 We will have a quick look at the distribution of the average price for each class code.
 
-wine . groupby ([ 'ClassCode' , 'Year' ])[ 'Price' ] . mean () . sort_values () . head ()
+```wine . groupby ([ 'ClassCode' , 'Year' ])[ 'Price' ] . mean () . sort_values () . head ()
 
-ClassCode Year 0 1 1992 22.0 1 2 1993 24.0 2 3 1994 27.4 3 4 1995 30.5
+ClassCode Year 0 1 1992 22.0 1 2 1993 24.0 2 3 1994 27.4 3 4 1995 30.5```
 
 We can see that there is an increasing trend in average price for each class code.
 
