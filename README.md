@@ -99,11 +99,11 @@ We will create a new directory called data_science_project .
 
 The directory structure should look like this:
 
-```data_science_project └── numpy_basics.ipynb
+```data_science_project └── numpy_basics.ipynb```
 
-└── data_preparation.ipynb
+```└── data_preparation.ipynb```
 
-└── model_selection.ipynb```
+```└── model_selection.ipynb```
 
 We will begin by importing numpy and pandas . We will use pandas to clean and prepare our data.
 
